@@ -1,0 +1,7 @@
+8.1.4
+pypi(jinja2)
+pypi(markdown)
+pypi(mkdocs)
+pypi(mkdocs_material_extensions)
+pypi(pygments)
+pypi(pymdown_extensions)
