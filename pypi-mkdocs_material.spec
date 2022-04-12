@@ -4,7 +4,7 @@
 #
 Name     : pypi-mkdocs_material
 Version  : 8.2.9
-Release  : 16
+Release  : 17
 URL      : https://files.pythonhosted.org/packages/ae/c0/eea041cb0823f7e8786c09c923ce0ad3ce97cb9275b5508367d3901cfb66/mkdocs-material-8.2.9.tar.gz
 Source0  : https://files.pythonhosted.org/packages/ae/c0/eea041cb0823f7e8786c09c923ce0ad3ce97cb9275b5508367d3901cfb66/mkdocs-material-8.2.9.tar.gz
 Summary  : A Material Design theme for MkDocs
@@ -70,7 +70,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1649477350
+export SOURCE_DATE_EPOCH=1649787147
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
